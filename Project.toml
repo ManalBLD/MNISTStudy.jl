@@ -1,0 +1,13 @@
+name = "MNISTStudy"
+uuid = "0f4df5d2-b227-47cd-ba88-6c05e9f7d0a2"
+authors = ["ManalBLD <105731109+ManalBLD@users.noreply.github.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
